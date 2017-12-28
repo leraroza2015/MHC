@@ -1,0 +1,2 @@
+# MHC
+Mega Shop Coin
